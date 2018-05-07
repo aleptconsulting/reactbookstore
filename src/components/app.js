@@ -8,7 +8,7 @@ export default class App extends Component {
     return (
       <div>
         <BookList />
-        <DepartmentList />
+        {/* <DepartmentList /> */}
         <BookDetails />
       </div>
     );
